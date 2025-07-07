@@ -7,8 +7,10 @@ name = "pypi"
 opencv-python = "*"
 python-dotenv = "*"
 matplotlib = "*"
+imgviz = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.10"
+python_version = "3.12"
+python_full_version = "3.12.7"
